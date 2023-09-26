@@ -1,3 +1,4 @@
+console.log('DS');
 let ourProductsSlider = new Swiper('.section-our-products .swiper-container', {
   direction: 'horizontal',
   loop: false,
